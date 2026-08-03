@@ -7,7 +7,6 @@ This folder contains a plain static HTML/CSS version of the demo website. No Rea
 - `index.html` - The complete website in one file (Albanian and English)
 - `styles.css` - Plain CSS styling
 - `assets/` - Restaurant photos and logo
-- `favicon.ico` - Site icon
 - `robots.txt` - Search-engine instructions
 
 ## How to use
